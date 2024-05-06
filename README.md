@@ -1,4 +1,7 @@
 # 2a_Stop_and_Wait_Protocol
+## NAME: Vishal S
+## REGISTER NUMBER: 212223110063
+
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
